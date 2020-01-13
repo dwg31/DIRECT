@@ -1,4 +1,4 @@
-eggs
-milk
+4 eggs
+425g milk
 flour
 chocolate
